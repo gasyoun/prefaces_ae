@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Front matter — English
 
-Per-page files: `aeprefNN.md`. Index: [README.md](README.md).
+Per-page files: `aeprefNN.md`. Index: [README.md](https://github.com/gasyoun/prefaces_ae/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -1137,3 +1139,5 @@ Arabic figures in the case of dramas &c. refer to the act or page.
  Vi.Viracharita.
 
  Y.Yajnavalkya.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ae)
 source_page: PUBLISHER’S PREFACE TO THE SECOND EDITION
@@ -27,3 +29,5 @@ Apte found time before his death to go carefully through the
 first Edition and to make the necessary corrections in it in the
 
 light of his riper studies.
+
+_Dr. Mārcis Gasūns_

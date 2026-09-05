@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ae)
 source_page: PREFACE TO THE FIRST EDITION
@@ -689,3 +691,5 @@ Poona,
 June 11th, 1884.
 
 V. S. A.
+
+_Dr. Mārcis Gasūns_

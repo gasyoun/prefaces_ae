@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ae)
 source_page: DIRECTIONS TO THE STUDENT
@@ -149,3 +151,5 @@ was any peculiarity in the formation of these derivatives,
 they are given; but in many cases the student will have to
 
 supply the forms, according to rules given in grammars.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ae)
 source_page: Publisher’s Preface to the Third Edition
@@ -57,3 +59,5 @@ extraction: csldoc-html-text
 настоящем виде она будет ещё более полезной студенческому
 
 миру.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ae)
 source_page: Publisher’s Preface to the Third Edition
@@ -55,3 +57,5 @@ These additions and alterations will be found to have con-
 siderably added to the usefulness of the book, and it is hoped that
 
 in its present form, it will be more helpful to the student world.
+
+_Dr. Mārcis Gasūns_

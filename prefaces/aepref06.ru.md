@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ae)
 source_page: ABBREVIATIONS Of Grammatical Terms &c.
@@ -111,3 +113,5 @@ A. Atmanepada.
  voc. Vocative (звательный).
 
  v. t. Глагол переходный.
+
+_Dr. Mārcis Gasūns_

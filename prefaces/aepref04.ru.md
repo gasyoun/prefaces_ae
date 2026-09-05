@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ae)
 source_page: PUBLISHER’S PREFACE TO THE SECOND EDITION
@@ -31,3 +33,5 @@ extraction: csldoc-html-text
 первое Издание и внести в него необходимые исправления
 
 в свете своих более зрелых занятий.
+
+_Dr. Mārcis Gasūns_
