@@ -15,6 +15,6 @@ Russian translations: add as `.ru.md` (Phase 4).
 | 05 | DIRECTIONS TO THE STUDENT | [aepref05.md](https://github.com/gasyoun/prefaces_ae/blob/main/prefaces/aepref05.md) |
 | 06 | ABBREVIATIONS Of Grammatical Terms &c. | [aepref06.md](https://github.com/gasyoun/prefaces_ae/blob/main/prefaces/aepref06.md) |
 | 07 | Abbreviations of the Names of Works | [aepref07.md](https://github.com/gasyoun/prefaces_ae/blob/main/prefaces/aepref07.md) |
-| 08 | csldoc | [aepref08.md](aepref08.md) |
+| 08 | csldoc | aepref08.md |
 
 _Dr. Mārcis Gasūns_
